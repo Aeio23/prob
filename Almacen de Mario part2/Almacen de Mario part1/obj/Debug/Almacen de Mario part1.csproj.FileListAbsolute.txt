@@ -1,0 +1,10 @@
+E:\taller 23\Almacen de Mario part1\Almacen de Mario part1\bin\Debug\Almacen de Mario part1.exe
+E:\taller 23\Almacen de Mario part1\Almacen de Mario part1\bin\Debug\Almacen de Mario part1.pdb
+E:\taller 23\Almacen de Mario part1\Almacen de Mario part1\obj\Debug\ResolveAssemblyReference.cache
+E:\taller 23\Almacen de Mario part1\Almacen de Mario part1\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\taller 23\Almacen de Mario part1\Almacen de Mario part1\obj\Debug\WindowsFormsApplication2.Form2.resources
+E:\taller 23\Almacen de Mario part1\Almacen de Mario part1\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\taller 23\Almacen de Mario part1\Almacen de Mario part1\obj\Debug\Almacen de Mario part1.csproj.GenerateResource.Cache
+E:\taller 23\Almacen de Mario part1\Almacen de Mario part1\obj\Debug\Almacen de Mario part1.exe
+E:\taller 23\Almacen de Mario part1\Almacen de Mario part1\obj\Debug\Almacen de Mario part1.pdb
+E:\taller 23\Almacen de Mario part1\Almacen de Mario part1\obj\Debug\WindowsFormsApplication2.Form3.resources
